@@ -1,5 +1,5 @@
 # jonyung1205.github.io-wireframe
 
-First assignment for building a web design using HTML/CSS. 
+First assignment for building a web design skeleton using HTML/CSS. 
 
-https://github.com/jonyung1205/wireframe.index.html
+https://jonyung1205.github.io/wireframe.index.html/
